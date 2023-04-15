@@ -1,0 +1,1 @@
+This is reading companion for the book "Professional Linux Kernel Architecture" by Wolfgang Mauerer.
